@@ -129,3 +129,8 @@ void stopMotors() {
   digitalWrite(IN3, LOW);
   digitalWrite(IN4, LOW);
 }
+
+
+
+
+### this is the audrino code for the esp 32 module in developers mode ###
