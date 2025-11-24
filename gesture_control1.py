@@ -80,3 +80,17 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 esp.close()
+
+
+
+## needed to be run in the terminal ##
+
+# cd ~/mediapipe_project     (this is the folder name which im using )
+# source venv/bin/activate   (setting up a virtual enviornment to run the code )
+# pip install opencv-python mediapipe ( double crossing to check the installed packages )
+
+
+# python --version  (to check the python version )
+
+# pip list | grep mediapipe     
+#python gesture_control1.py   (executing thefile )
